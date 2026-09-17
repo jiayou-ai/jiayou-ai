@@ -1,10 +1,10 @@
 # Terms of Use
 
-Last revised on: 20 July 2022
+Last revised on: 17 Sept 2026
 
 Please read these terms carefully before using Our Service.
 
-The app +you (“foundation”, “we”, “us”, and “our”) is a copyrighted work. Certain features of the app may be subject to additional guidelines, terms, or rules, which will be posted on this page in connection with such features. Having that stated without limitation, your submission of information, including personal information, through which we have direct connection with is governed by the terms of Our privacy policy as updated from time to time, available at jiayou-ai.github.io/jiayou-ai/legals/privacy_policy (“Privacy Policy”).
+The app +you (“foundation”, “we”, “us”, and “our”) is a copyrighted work. Certain features of the app may be subject to additional guidelines, terms, or rules, which will be posted on this page in connection with such features. Having that stated without limitation, your submission of information, including personal information, through which we have direct connection with is governed by the terms of Our privacy policy as updated from time to time, available at jiayou-ai.github.io/jiayou-ai/legal/privacy-policy (“Privacy Policy”).
 
 All such additional terms, guidelines, or rules, including Our Privacy Policy, are incorporated by reference into these terms of use (these “Terms”).
 
@@ -21,9 +21,10 @@ Guidelines for rewards in use of the app:
       ***   Hearty gift for every encourage to +bot
 
 ### 1. Accounts
+
 1.1 Account Creation. In order to use certain features of the app, you are encouraged to register for an account (collectively “Account”) and provide certain information about yourself as prompted by the sign up form. You represent and warrant that: (a) all required registration information you submit is truthful and accurate; (b) you will maintain the accuracy of such information. You may choose to delete your Account at any time, for any reason, by following the instructions shown in the app. We may suspend or permanently terminate your Account in accordance with Section 8.
 
-1.2 Account Responsibilities. You are responsible for maintaining the confidentiality of your Account login information and are fully responsible for all activities that relate to your active Account. We are immediately notified under your agreement of any unauthorized use, or suspected unauthorized access of your Account or any other breach of security built. We, are not by any means, cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.
+1.2 Account Responsibilities. You are highly responsible for maintaining the confidentiality of your Account login information and are fully responsible for all activities that relate to your active Account. We are immediately notified under your agreement of any unauthorized use, or suspected unauthorized access of your Account or any other breach of security built. We, are not by any means, cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.
 
 ### 2. Access to the App
 
@@ -37,12 +38,12 @@ Guidelines for rewards in use of the app:
 
 ### 3. App Content
 
-3.1 User Content. “User Content” means any and all information and content that a user submits to, or uses with, the app (e.g., content in the user’s profile). You are solely responsible for your User Content. You assume all risks associated with the use of your User Content, including any reliance on its accuracy, prophecy or completeness by others, or any disclosure of your User Content that personally identifies you or any third party that might involve. You hereby represent and warrant that your User Content does not violate Our Acceptable Use Policy (defined in Section 3.3). You may not represent or imply to others that your User Content is in any way provided, sponsored or endorsed by us. Because you alone are responsible for your User Content, you may expose yourself to liability if, for example, your User Content violates the Acceptable Use Policy. We are not obligated to backup any User Content, and your User Content may be deleted from Our database at any time without prior notice. You are solely responsible for creating and maintaining your own backup copies of your User Content as you please.
+3.1 User Content. “User Content” means any and all information and content that a user submits to, or uses with, the app (e.g., content in the user’s profile). You are solely responsible for your User Content. You assume all risks associated with the use of your User Content, including any reliance on its accuracy, prophecy or completeness by others, or any disclosure of your User Content that personally identifies you or any third party that might involve. You hereby represent and warrant that your User Content does not violate Our Acceptable Use Policy (defined in Section 3.3). You may not represent or imply to others that your User Content is in any way provided, sponsored or endorsed by us. Because you alone are highly responsible for your User Content, you may expose yourself to liability if, for example, your User Content violates the Acceptable Use Policy. We are not obligated to backup any User Content, and your User Content may be deleted from Our database at any time without prior notice. You are solely responsible for creating and maintaining your own backup copies of your User Content as you please.
 
 3.2 License. By making any User Content available through Our Services you hereby grant us a limited, non-exclusive, worldwide, royalty-free, transferable license, with a right to sublicense, to access, view, use, copy, modify, publicly display, publicly perform and distribute your User Content to the extent reasonably needed to operate and provide the unparalleled Services to you, and other Users as the functionality of the Services permits.
 
 3.3 Acceptable Use Policy. The following terms constitute Our “Acceptable Use Policy”:
-‍
+
 (a) You agree and consent not to use the app to collect, upload, transmit, display, or distribute any User Content (i) that violates any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right; (ii) that is unlawful, harassing, abusive, tortious, threatening, harmful, invasive of another’s privacy, vulgar, defamatory, false, intentionally misleading, trade libelous, pornographic, obscene, patently offensive, promotes racism, bigotry, hatred, or physical harm of any kind against any group or individual or is otherwise objectionable; (iii) that is harmful to minors in any way; or (iv) that is in violation of any law, regulation, or obligations or restrictions imposed by any third party.
 
 (b) In addition, you agree and consent not to: (i) upload, transmit, or distribute to or through the app any computer viruses, worms, Trojan horses, hoaxes, corrupted files or other items or softwares of a deceptive nature intended to damage or alter a computer system or data; (ii) send through the app unsolicited or unauthorized spam, chain letters, pyramid schemes, or any other form of duplicative or unsolicited messages, whether commercial or otherwise; (iii) use the app to harvest, collect, gather or assemble information or data regarding other users without their consent; (iv) interfere with, disrupt, alter or create an undue burden on servers or networks connected to the app, or violate the regulations, policies or procedures of such networks; (v) gain or attempt to gain unauthorized access to the app (or to other computer systems or networks connected to or used together with the app), whether through password mining or any other means; (vi) harass or interfere with any other user’s positive use and enjoyment of the app; or (vi) use software or automated agents or scripts to produce multiple accounts in the app, or to generate automated searches, requests, or queries to (or to strip, scrape, or mine data from) the app.
@@ -52,6 +53,7 @@ Guidelines for rewards in use of the app:
 3.5 Feedback. If you provide us with any feedback or suggestions regarding the app, you hereby assign to us all rights in such feedback and agree that we shall have the right to use and fully exploit such feedback and related information in any manner it deems appropriate. We will treat any feedback you provide to us as non-confidential and non-proprietary. You agree and consent that you will not submit to us any sorts of information that you consider to be confidential or proprietary.
 
 ### 4. Indemnification
+
 You agree to indemnify us (and its officers, employees, and agents), including costs and attorneys’ fees, from any claim or demand made by any third party due to or arising out of (a) your use of the app, (b) your violation of these Terms, (c) your violation of applicable laws or regulations or (d) your User Content. We reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with Our defense of these claims. You agree not to settle any matter without the prior explicit consent of us in writing. We will, in reasonable ways, notify you of any such claim, action or proceeding upon becoming aware or conscious of it.
 
 ### 5. Other Users
@@ -74,7 +76,7 @@ The exclusions in this Section 7 shall apply to the maximum extent permitted by 
 
 ### 8. Term and Termination
 
-Subject to this Section, these Terms will remain in full force and effect while you use the app. We may suspend or terminate your rights to use the app (including your Account) at any time for any reason at Our sole discretion, including for anything about violation of these Terms. Upon termination of your rights under these Terms, your Account and right to access and use the app will terminate immediately. You understand that any termination of your Account may involve deletion of your User Content associated with your Account from Our live databases. We will not have any liability whatsoever to you for any termination of your rights under these Terms, including for termination of your Account or deletion of your User Content. Even after your rights under these Terms are terminated, the following provisions of these Terms will remain in effect: Sections 2.2 to 2.5, and Sections 3 to 9.
+Subject to this Section, these Terms will remain in full force and effect while you use the app. We may suspend or terminate your rights to use the app (including your Account) at any time for any reason at Our sole discretion, including for anything about violation of these Terms. Upon termination of your rights under these Terms, your Account and right to access and use the app will terminate immediately. You understand that any termination of your Account may involve deletion of your User Content associated with your Account from Our live databases. We will not have any liability whatsoever to you for any termination of your rights under these Terms, including for termination of your Account or deletion of your User Content. Even after your rights under these Terms are terminated, the following provisions of these Terms will remain in effect: Sections 2.2 to 2.4, and Sections 3 to 9.
 
 ### 9. General
 
@@ -96,12 +98,10 @@ Subject to this Section, these Terms will remain in full force and effect while 
 
 9.9 Governing Law and Jurisdiction. These Terms and any dispute or claim arising out of or in connection with their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the laws of Hong Kong. You agree and consent that the courts of Hong Kong shall have exclusive jurisdiction to settle any dispute or claim arising out of or in connection with the subject matter or formation (including non-contractual disputes or claims) of these Terms.
 
-9.10 Copyright/Trademark Information. Copyright © 2022 +you. All rights reserved. +you and the +you logo are trademarks of +you (domain: jiayou.ai) registered in Hong Kong. All trademarks, logos and service marks (“Marks”) displayed in the app are solely Our property or the property of other third parties. You are strictly not permitted to use these Marks without Our prior written consent or the consent of such third parties which may own the Marks.
+9.10 Copyright/Trademark Information. Copyright © 2026 +you. All rights reserved. +you and the +you logo are trademarks of +you (domain: jiayou.ai) registered in Hong Kong. All trademarks, logos and service marks (“Marks”) displayed in the app are solely Our property or the property of other third parties. You are strictly not permitted to use these Marks without Our prior written consent or the consent of such third parties which may own the Marks.
 
 9.11 Contact Information. If you wish to contact us in writing, or if any parts of these Terms require you to give us notice in writing, contact us at:
 
 Support in HK<br>
 Attn: +you<br>
 Email: support@jiayou.ai
-
-
