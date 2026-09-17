@@ -42,7 +42,7 @@ Guidelines for rewards in use of the app:
 
 3.2 License. By making any User Content available through Our Services you hereby grant us a limited, non-exclusive, worldwide, royalty-free, transferable license, with a right to sublicense, to access, view, use, copy, modify, publicly display, publicly perform and distribute your User Content to the extent reasonably needed to operate and provide the unparalleled Services to you, and other Users as the functionality of the Services permits.
 
-3.3 Acceptable Use Policy. The following terms constitute Our “Acceptable Use Policy”:
+3.3 Acceptable Use Policy. The following terms constitute Our “Acceptable Use Policy”:<br>
 
 (a) You agree and consent not to use the app to collect, upload, transmit, display, or distribute any User Content (i) that violates any third-party right, including any copyright, trademark, patent, trade secret, moral right, privacy right, right of publicity, or any other intellectual property or proprietary right; (ii) that is unlawful, harassing, abusive, tortious, threatening, harmful, invasive of another’s privacy, vulgar, defamatory, false, intentionally misleading, trade libelous, pornographic, obscene, patently offensive, promotes racism, bigotry, hatred, or physical harm of any kind against any group or individual or is otherwise objectionable; (iii) that is harmful to minors in any way; or (iv) that is in violation of any law, regulation, or obligations or restrictions imposed by any third party.
 
